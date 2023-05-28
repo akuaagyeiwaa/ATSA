@@ -16,9 +16,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
  We exist to promote the need and importance for tertiary education in our society with effective frontline youth membership practices and engagements, focusing on young people's participation in educational, socio-economic and political development in Asante Akyem Adomfe.
 
 
-## Header 2
+## VISION STATEMENT 
 
-> This is a blockquote following a header.
+
+To become a vibrant and unique student-focused Association in Asante Akim Adomfe and beyond to promote tertiary education and youth engagement in the society
+
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
