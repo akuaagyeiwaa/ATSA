@@ -37,14 +37,10 @@ To become a vibrant and unique student-focused Association in Asante Akim Adomfe
 *   To cooperate with other youth groups in organising activities, programs and 
      projects that seek to develop Asante Akyem AdomfeNumber of youth in tertiary education
 *   To render possible voluntary services to the upcoming youth and society.
-*   Life skills training 
-*   Cultural and Religious Values and virtues 
-*   Sports and recreation 
-*   Environmental sustainability (SDGs)
 *    To assist members, gaining personal and professional skills in leadership 
      development.
 *   To address diversity issues and create a society where all individuals feel 
-comfortable and cared about.
+     comfortable and cared about.
 
 
 
