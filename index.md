@@ -46,7 +46,7 @@ To become a vibrant and unique student-focused Association in Asante Akim Adomfe
 
 
 ##### OBJECTIVES
-
+The objectives of the Association will be to improve;
 1.  Number of youth in tertiary education 
 2. The community development 
 3. Youth empowerment and livelihood opportunities 
