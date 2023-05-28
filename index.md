@@ -68,12 +68,26 @@ The objectives of the Association will be to improve;
 * Bridging educational gap
  
 
-### And an ordered list:
+### MEMBERSHIP
 
-1.  It
-1.  Item two
-1.  Item three
-1.  Item four
+1.  All persons who hail from Adomfe and attend any tertiary institutions in 
+Ghana. 
+2. The membership shall consist of members and honorary members. i.e. "An 
+Honorary Member shall be an individual who has the association at heart and 
+has made unique, seminal contribution to the field of social work."
+3. The voting members shall consist of students in tertiary institutions and the 
+executive committee. 
+4. Membership of the movement shall be opened to individuals with like-minds 
+and willing to make an impact on others
+5. A prospective member may be introduced at any regular meeting of the 
+Association and shall become a full member upon registration. 
+6. Any full member who fails to show continued interest in the Association shall 
+automatically forfeit his/her membership. 
+7. Any member who fails to show financial commitment to the Association shall 
+automatically forfeit his/her membership.
+8. The Executive Council shall be the highest decision making body of the 
+Association
+
 
 ### And a nested list:
 
