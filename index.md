@@ -53,22 +53,17 @@ comfortable and cared about.
 
 ##### OBJECTIVES
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Number of youth in tertiary education 
+2. The community development 
+3. Youth empowerment and livelihood opportunities 
+4. Life skills training 
+5. Cultural and Religious Values and virtues 
+6. Sports and recreation 
+7. Environmental sustainability (SDGs)
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
 
 ### Here is an unordered list:
 
