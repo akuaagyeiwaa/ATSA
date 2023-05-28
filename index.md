@@ -24,7 +24,7 @@ To become a vibrant and unique student-focused Association in Asante Akim Adomfe
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### AIMS AND OBJECTIVES
 
 ```js
 // Javascript code with syntax highlighting.
