@@ -59,16 +59,18 @@ The objectives of the Association will be to improve;
 
 
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### CORE VALUES
+<p>The core values of the Association are;</p>
+* Equality
+* Transparency and accountability 
+* Sustainability
+* Inclusiveness
+* Bridging educational gap
+ 
 
 ### And an ordered list:
 
-1.  Item one
+1.  It
 1.  Item two
 1.  Item three
 1.  Item four
