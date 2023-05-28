@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# MISSION STATEMENT
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+ We exist to promote the need and importance for tertiary education in our society with effective frontline youth membership practices and engagements, focusing on young people's participation in educational, socio-economic and political development in Asante Akyem Adomfe.
+
 
 ## Header 2
 
