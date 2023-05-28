@@ -21,8 +21,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 To become a vibrant and unique student-focused Association in Asante Akim Adomfe and beyond to promote tertiary education and youth engagement in the society
 
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 
 
