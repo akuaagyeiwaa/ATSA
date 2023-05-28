@@ -24,7 +24,7 @@ To become a vibrant and unique student-focused Association in Asante Akim Adomfe
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### AIMS AND OBJECTIVES
+### AIMS AND OBJECTIVE
 
 ```js
 // Javascript code with syntax highlighting.
@@ -41,11 +41,18 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### EXECUTIVES
+#### AIMS
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Number of youth in tertiary education 
+*   The community development 
+*   Youth empowerment and livelihood opportunities 
+*   Life skills training 
+*   Cultural and Religious Values and virtues 
+*   Sports and recreation 
+*   Environmental sustainability (SDGs)
+
+
+
 
 ##### Header 5
 
