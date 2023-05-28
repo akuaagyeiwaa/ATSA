@@ -43,18 +43,29 @@ end
 
 #### AIMS
 
-*   Number of youth in tertiary education 
-*   The community development 
-*   Youth empowerment and livelihood opportunities 
+*   To promote the urge for tertiary education in society.
+*   To serve as exemplary mentors to the growing youth in society.
+*   To promote the spirit of patriotism in the youth of Asante Akyem Adomfe.
+*   To foster links between the tertiary students and the community
+*    To develop programs and initiatives that will benefit and equip the tertiary 
+     student to face life
+8.   To create job avenues for its members and the society at large. 
+*   To cooperate with other youth groups in organising activities, programs and 
+     projects that seek to develop Asante Akyem AdomfeNumber of youth in tertiary education
+*   To render possible voluntary services to the upcoming youth and society.
 *   Life skills training 
 *   Cultural and Religious Values and virtues 
 *   Sports and recreation 
 *   Environmental sustainability (SDGs)
+*    To assist members, gaining personal and professional skills in leadership 
+     development.
+*   To address diversity issues and create a society where all individuals feel 
+comfortable and cared about.
 
 
 
 
-##### Header 5
+##### OBJECTIVES
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
