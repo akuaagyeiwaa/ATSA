@@ -89,6 +89,22 @@ automatically forfeit his/her membership.
 Association
 
 
+### GENERAL RESPONSIBILITIES OF MEMBERS:
+1. A member shall pay membership dues or any contributions as shall be 
+determined by the leadership of the Association with the power given by the 
+members.
+2. A member shall attend/participate in the events or activities of the alumni 
+association.
+3. A member shall continue to uphold the values of the Association.
+4. A member may be entitled to welfare support by the Association.
+5. A member should be respectful of diversity, non-discrimination and uphold the 
+movement's values.
+6. A member shall comply with the policies and rules of the Association.
+7. A member shall not abuse physically, sexually or verbally against other 
+members or leaders.
+8. A member shall be non-partisan.
+
+
 ### And a nested list:
 
 - level 1 item
