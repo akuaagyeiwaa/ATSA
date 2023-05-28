@@ -130,6 +130,42 @@ The executive body of the Association shall consist of the following:
 8. Deputy Organizing Secretaries 
 9. Public Relations Officer
 
+ ###DUTIES OF THE OFFICERS :
+1. Chairperson
+a) He shall be the leader and chief spokesman of the Executive Committee
+b) The Chairperson's duty shall be to preside at all meetings and administer 
+the Association's affairs.
+c) He/she can call emergency meetings any time the need arises.
+d) He/she shall have the authority to act for the Association within the 
+framework of the regulations of the Association.
+e) He shall be able to delegate other functions/duties of the other members 
+of the Executive Committee as will not contravene the provisions of these
+regulations. 
+f) In consultation with the Executive Committee, the Chairperson shall
+appoint the administrative officers of the Association where necessary.
+
+2. ##Vice-Chairperson: 
+a) The Vice-Chairperson shall assume the duties of the Chairperson in the 
+absence of the Chairperson.
+b) He/she shall be responsible for the arrangement of programs and shall 
+assist the Chairperson in the business of the Association.
+c) He/she shall perform any other functions/duties assigned to him by the 
+executive committee, Association and the Chairperson.
+
+3. ##General Secretary:
+a) The secretary shall maintain the records of the Association and record 
+the proceedings of the meetings of the Association.
+b) He/she shall furnish the members with notifications and agendas of the 
+meetings.
+c) He/she shall be in charge of all secretarial duties of the Association and 
+the Executive Committee.
+
+4. ##Deputy General Secretary:
+a) The Deputy Secretary shall assume the duties of the General Secretary 
+in his/ her absence.
+b) The Deputy Secretary shall assist the General Secretary in all of their 
+duties.
+
 
 ### And a nested list:
 
