@@ -42,6 +42,7 @@ end
 ```
 
 #### AIMS
+<P>The Association aims to improve;</P>
 
 *   To promote the urge for tertiary education in society.
 *   To serve as exemplary mentors to the growing youth in society.
