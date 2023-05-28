@@ -107,6 +107,7 @@ members or leaders.
 ### OFFICERS AND THEIR DUTIES:
 There shall be a Chief patron and an Executive Committee that shall handle the affairs 
 of the Association.
+
 Patron
 1. The Patron should be a native of the town who frequently visits the town. 
 2. The Patron shall be a prominent and known member of the town
@@ -116,13 +117,14 @@ manner consistent with the goals and purpose of the Association.
 executing its duties.
 5. The Patron shall assist leadership in initiating and running projects.
 Executive Committee
+
+
 The executive body of the Association shall consist of the following: 
 1. Chairperson 
 2. Vice-Chairperson 
 3. General Secretary
 4. Deputy General Secretary 
 5. Financial secretary
-4
 6. Treasurer 
 7. Organising Secretary
 8. Deputy Organizing Secretaries 
