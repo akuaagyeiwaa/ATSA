@@ -19,7 +19,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## VISION STATEMENT 
 
 
-To become a vibrant and unique student-focused Association in Asante Akim Adomfe and beyond to promote tertiary education and youth engagement in the society
+To become a vibrant and unique student-focused Association in Asante Akim Adomfe and beyond to promote tertiary education and youth engagement in the society.
 
 
 
