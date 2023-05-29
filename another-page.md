@@ -122,7 +122,7 @@ descriptiion: Community
 						
 
 <p>
-							Fellow; center for digital Humanities
+							Senior Lecturer, Dept. Of Physics, UCC; life Patron
 						</p>
 
 
