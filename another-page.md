@@ -4,8 +4,6 @@ title:  EXECUTIVE TEAM MEMBERS
 description: Community
 ---
 
-****
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,12 +13,12 @@ description: Community
             display: inline-block;
             text-align: center;
             margin: 10px;
+            width: 150px;
         }
 
         .team-member img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
+            width: 100%;
+            height: auto;
             object-fit: cover;
             border: 2px solid #000;
         }
