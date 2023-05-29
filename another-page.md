@@ -1,34 +1,10 @@
 ---
 layout: default
-title: 2023 EXECUTIVE TEAM MEMBERS
+title:  EXECUTIVE TEAM MEMBERS
 description: Below is are the executive of the association
 ---
 
 ## Beneath the Executives are the members
-<!DOCTYPE html>
-
-<html>
-
-<head>
-<link rel="stylesheet" href="styles.css">
-  </head>
-
-  <body>
-    <div class="navibar-fixed-top">
-    <ul>
-      <li style="float"left">
-<li> <a href="index.html">HOME</a></li>
-  <li> <a href="ABOUT.html">ABOUT</a></li>
-  <li> <a href="Conferences.html">THEMES</a></li>
-  <li> <a href="Twine.html">TWINE</a></li>
-  <li> <a href="Buzzfeed.html">BUZZFEED</a></li>
-   <li> <a href="Publications.html">ACKNOWLEDGEMENTS</a></li>
-  <li> <a href="Contact.html">CONTRIBUTE</a></li>
-                             </ul>
-                             </div>
-                             <p>
-This project may not have been possible without the insight and guildiance of Prof Adrian Wisnicki of University of Nebraska, Lincoln. My colleagues were also instrumental in how my work turned out, and I cant thank you enough. 
- NB:all the information on my colleaques were gathered from <a href="https://www.unl.edu/">University of Nebraska, Lincoln</a>.</p> 
  
 <!DOCTYPE html>
 <html>
