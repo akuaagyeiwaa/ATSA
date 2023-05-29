@@ -4,7 +4,7 @@ title:  EXECUTIVE TEAM MEMBERS
 description: Below is are the executive of the association
 ---
 
-## Beneath the Executives are the members
+##  Executives & members
  
 <html>
 
