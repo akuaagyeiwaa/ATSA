@@ -5,6 +5,965 @@ description: Below is are the executive of the association
 ---
 
 ## Beneath the Executives are the members
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <div class="navibar-fixed-top">
+    <ul>
+      <li style="float"left">
+<li> <a href="index.html">HOME</a></li>
+  <li> <a href="ABOUT.html">ABOUT</a></li>
+  <li> <a href="Conferences.html">THEMES</a></li>
+  <li> <a href="Twine.html">TWINE</a></li>
+  <li> <a href="Buzzfeed.html">BUZZFEED</a></li>
+   <li> <a href="Publications.html">ACKNOWLEDGEMENTS</a></li>
+  <li> <a href="Contact.html">CONTRIBUTE</a></li>
+                             </ul>
+                             </div>
+                             <p>
+This project may not have been possible without the insight and guildiance of Prof Adrian Wisnicki of University of Nebraska, Lincoln. My colleagues were also instrumental in how my work turned out, and I cant thank you enough. 
+ NB:all the information on my colleaques were gathered from <a href="https://www.unl.edu/">University of Nebraska, Lincoln</a>.</p> 
+ 
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1">
+
+	<!-- linking font awesome for icons -->
+	<link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<style>
+		/* Whole html box designing */
+		html {
+			box-sizing: border-box;
+		}
+		
+		/* Body width fixing */
+		body {
+			max-width: 100%
+		}
+		
+		/* Box sizing depending on parent */
+		*,
+		*:before,
+		*:after {
+			box-sizing: inherit;
+		}
+		
+		/* Styling column */
+		.column {
+			float: left;
+			width: 33%;
+			margin-bottom: 16px;
+			padding: 5px 10px;
+		}
+		
+
+		/* Column width change depends on screen size */
+		@media screen and (max-width: 670px) {
+			.column {
+				width: 100%;
+				text-align: none;
+			}
+		}
+		
+		/* Card designing */
+		.card {
+			background-color: Yellow;
+			border: 1px solid black;
+		}
+		
+		.container {
+			padding: 0 16px;
+		}
+		
+		/* Icon styling */
+		.fa {
+			margin: 10px;
+			font-size:40px;
+
+		}
+		
+		.fa:hover {
+			transform: rotateY(180deg);
+			transition: transform 0.8s;
+		}
+		
+		.container::after,
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+		
+		/* Button designing */
+		.button {
+			border: none;
+			padding: 8px;
+			color: white;
+			background-color: #A89532;
+			text-align: center;
+			cursor: pointer;
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		/* Hover effect on button */
+		.button:hover {
+			background-color: green;
+		}
+	
+		/* Margining first member of team */
+		#gfg {
+			float:none;
+			margin:auto;
+		}
+	</style>
+</head>
+
+<body>
+	<center>
+		<h1>ADV TOPICS IN DIG HUM ENGL477 SEC 001 Spring 2023 TEAM</h1>
+		<hr>
+
+		<!-- First member of the team -->
+		<div class="row">
+			<div class="column" id="gfg">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Prof Adrian Wisnicki</h2>
+						
+
+
+
+						
+
+<p>
+							Fellow; center for digital Humanities
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Other members of the team -->
+		<div class="row">
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Erin Lyette</h2>
+						
+
+
+
+
+						
+
+<p>
+							M.A English
+		
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Tina Lee</h2>
+						
+
+
+
+						
+
+<p>
+							
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Andrew Johnson</h2>
+						
+
+
+
+						
+
+<p>
+							Advertising and marketing
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</center>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1">
+
+	<!-- linking font awesome for icons -->
+	<link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<style>
+		/* Whole html box designing */
+		html {
+			box-sizing: border-box;
+		}
+		
+		/* Body width fixing */
+		body {
+			max-width: 100%
+		}
+		
+		/* Box sizing depending on parent */
+		*,
+		*:before,
+		*:after {
+			box-sizing: inherit;
+		}
+		
+		/* Styling column */
+		.column {
+			float: left;
+			width: 33%;
+			margin-bottom: 16px;
+			padding: 5px 10px;
+		}
+		
+
+		/* Column width change depends on screen size */
+		@media screen and (max-width: 670px) {
+			.column {
+				width: 100%;
+				text-align: none;
+			}
+		}
+		
+		/* Card designing */
+		.card {
+			background-color: yellow;
+			border: 1px solid black;
+		}
+		
+		.container {
+			padding: 0 16px;
+		}
+		
+		/* Icon styling */
+		.fa {
+			margin: 10px;
+			font-size:30px;
+
+		}
+		
+		.fa:hover {
+			transform: rotateY(180deg);
+			transition: transform 0.8s;
+		}
+		
+		.container::after,
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+		
+		/* Button designing */
+		.button {
+			border: none;
+			padding: 8px;
+			color: white;
+			background-color: #A89532;
+			text-align: center;
+			cursor: pointer;
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		/* Hover effect on button */
+		.button:hover {
+			background-color: green;
+		}
+	
+		/* Margining first member of team */
+		#gfg {
+			float:none;
+			margin:auto;
+		}
+	</style>
+</head>
+
+<body>
+
+
+
+						
+
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Other members of the team -->
+		<div class="row">
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Brett Berg</h2>
+						
+
+
+
+						
+
+<p>
+							Senior, Mathematics
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Angela Thornburg</h2>
+						
+
+
+
+						
+
+<p>
+							Senior, Advertising and Public Relations
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Makena Nail</h2>
+						
+
+
+
+						
+
+<p>
+							Sociology
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</center>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1">
+
+	<!-- linking font awesome for icons -->
+	<link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<style>
+		/* Whole html box designing */
+		html {
+			box-sizing: border-box;
+		}
+		
+		/* Body width fixing */
+		body {
+			max-width: 100%
+		}
+		
+		/* Box sizing depending on parent */
+		*,
+		*:before,
+		*:after {
+			box-sizing: inherit;
+		}
+		
+		/* Styling column */
+		.column {
+			float: left;
+			width: 33%;
+			margin-bottom: 16px;
+			padding: 5px 10px;
+		}
+		
+
+		/* Column width change depends on screen size */
+		@media screen and (max-width: 670px) {
+			.column {
+				width: 100%;
+				text-align: none;
+			}
+		}
+		
+		/* Card designing */
+		.card {
+			background-color: yellow;
+			border: 1px solid black;
+		}
+		
+		.container {
+			padding: 0 16px;
+		}
+		
+		/* Icon styling */
+		.fa {
+			margin: 10px;
+			font-size:68px;
+
+		}
+		
+		.fa:hover {
+			transform: rotateY(180deg);
+			transition: transform 0.8s;
+		}
+		
+		.container::after,
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+		
+		/* Button designing */
+		.button {
+			border: none;
+			padding: 8px;
+			color: white;
+			background-color: #A89532;
+			text-align: center;
+			cursor: pointer;
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		/* Hover effect on button */
+		.button:hover {
+			background-color: green;
+		}
+	
+		/* Margining first member of team */
+		#gfg {
+			float:none;
+			margin:auto;
+		}
+	</style>
+</head>
+
+
+
+
+						
+
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Other members of the team -->
+		<div class="row">
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Thara Michaelis</h2>
+						
+
+
+
+						
+
+<p>
+							Senior;English
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Jun Goh</h2>
+						
+
+
+
+						
+
+<p>
+							PhD History
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Jeff Hill</h2>
+						
+
+
+
+						
+
+<p>
+							English
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</center>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1">
+
+	<!-- linking font awesome for icons -->
+	<link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<style>
+		/* Whole html box designing */
+		html {
+			box-sizing: border-box;
+		}
+		
+		/* Body width fixing */
+		body {
+			max-width: 100%
+		}
+		
+		/* Box sizing depending on parent */
+		*,
+		*:before,
+		*:after {
+			box-sizing: inherit;
+		}
+		
+		/* Styling column */
+		.column {
+			float: left;
+			width: 33%;
+			margin-bottom: 16px;
+			padding: 5px 10px;
+		}
+		
+
+		/* Column width change depends on screen size */
+		@media screen and (max-width: 670px) {
+			.column {
+				width: 100%;
+				text-align: none;
+			}
+		}
+		
+		/* Card designing */
+		.card {
+			background-color: #A89532;
+			border: 1px solid black;
+		}
+		
+		.container {
+			padding: 0 16px;
+		}
+		
+		/* Icon styling */
+		.fa {
+			margin: 10px;
+			font-size:68px;
+
+		}
+		
+		.fa:hover {
+			transform: rotateY(180deg);
+			transition: transform 0.8s;
+		}
+		
+		.container::after,
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+		
+		/* Button designing */
+		.button {
+			border: none;
+			padding: 8px;
+			color: white;
+			background-color: #A89532;
+			text-align: center;
+			cursor: pointer;
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		/* Hover effect on button */
+		.button:hover {
+			background-color: green;
+		}
+	
+		/* Margining first member of team */
+		#gfg {
+			float:none;
+			margin:auto;
+		}
+	</style>
+</head>
+
+	
+<body>
+
+
+						
+
+
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Other members of the team -->
+		<div class="row">
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Trey Hesterman</h2>
+						
+
+
+
+
+						
+
+<p>
+							Software Engineering
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Karmen Browitt</h2>
+						
+
+
+
+
+						
+
+<p>
+							
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Alyssa Perrotto</h2>
+						
+
+<p>Marketing</p>
+
+
+						
+
+<p>
+							
+						</p>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1">
+
+	<!-- linking font awesome for icons -->
+	<link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<style>
+		/* Whole html box designing */
+		html {
+			box-sizing: border-box;
+		}
+		
+		/* Body width fixing */
+		body {
+			max-width: 100%
+		}
+		
+		/* Box sizing depending on parent */
+		*,
+		*:before,
+		*:after {
+			box-sizing: inherit;
+		}
+		
+		/* Styling column */
+		.column {
+			float: left;
+			width: 33%;
+			margin-bottom: 16px;
+			padding: 5px 10px;
+		}
+		
+
+		/* Column width change depends on screen size */
+		@media screen and (max-width: 670px) {
+			.column {
+				width: 100%;
+				text-align: none;
+			}
+		}
+		
+		/* Card designing */
+		.card {
+			background-color: #A89532;
+			border: 1px solid black;
+		}
+		
+		.container {
+			padding: 0 16px;
+		}
+		
+		/* Icon styling */
+		.fa {
+			margin: 10px;
+			font-size:68px;
+
+		}
+		
+		.fa:hover {
+			transform: rotateY(180deg);
+			transition: transform 0.8s;
+		}
+		
+		.container::after,
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+		
+		/* Button designing */
+		.button {
+			border: none;
+			padding: 8px;
+			color: white;
+			background-color: #A89532;
+			text-align: center;
+			cursor: pointer;
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		/* Hover effect on button */
+		.button:hover {
+			background-color: green;
+		}
+	
+		/* Margining first member of team */
+		#gfg {
+			float:none;
+			margin:auto;
+		}
+	</style>
+</head>
+
+	
+<body>
+
+
+						
+
+
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Other members of the team -->
+		<div class="row">
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Akua Agyeiwaa</h2>
+						
+
+
+
+
+						
+
+<p>
+							PhD English
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Arka Maitra</h2>
+						
+
+
+
+
+						
+
+<p> PhD English
+							
+						</p>
+
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+			<div class="column">
+				<div class="card">
+					<i class="fa fa-user-circle"
+					style="font-size:30px;"></i>
+					<div class="container">
+						<h2>Gregory Payne</h2>
+						
+
+						<button class="button">View</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</center>
+</body>
+
+
+
+
+
+
+</html>
 
 _yay_
 
