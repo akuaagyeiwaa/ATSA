@@ -6,7 +6,6 @@ description: Below is are the executive of the association
 
 ## Beneath the Executives are the members
  
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -108,7 +107,7 @@ description: Below is are the executive of the association
 
 <body>
 	<center>
-		<h1>ADV TOPICS IN DIG HUM ENGL477 SEC 001 Spring 2023 TEAM</h1>
+		<h1> 2023 TEAM</h1>
 		<hr>
 
 		<!-- First member of the team -->
@@ -118,11 +117,8 @@ description: Below is are the executive of the association
 					<i class="fa fa-user-circle"
 					style="font-size:30px;"></i>
 					<div class="container">
-						<h2>Prof Adrian Wisnicki</h2>
+						<h2>Dr Kwadjo Anorkye Dompreh</h2>
 						
-
-
-
 						
 
 <p>
