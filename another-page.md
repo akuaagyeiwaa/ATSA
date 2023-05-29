@@ -34,10 +34,10 @@ description: Community
         <div class="team-member">
             <figure>
                 <img src="member1.jpg" alt="Member 1">
-                <figcaption>Member 1</figcaption>
+                <figcaption>Dr Anorkye Dompreh</figcaption>
             </figure>
         </div>
-        <div class="team-member">
+        <div class="Patron">
             <figure>
                 <img src="member2.jpg" alt="Member 2">
                 <figcaption>Member 2</figcaption>
