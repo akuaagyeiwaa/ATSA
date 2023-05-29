@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  EXECUTIVE TEAM MEMBERS
-description: Below is are the executive of the association
+descriptiion: Community
 ---
 
 ##  Executives & members
