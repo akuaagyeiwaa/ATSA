@@ -4,10 +4,9 @@ title:  EXECUTIVE TEAM MEMBERS
 description: Community
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Team Members Acknowledgement</title>
+    <title>Team Members</title>
     <style>
         .team-member {
             display: inline-block;
