@@ -163,7 +163,7 @@ in his/ her absence.
 b) The Deputy Secretary shall assist the General Secretary in all of their 
 duties.
 
-Deputy General Secretary
+Deputy General Secretary"
 
 a) The Deputy Secretary shall assume the duties of the General Secretary 
 in his/ her absence.
@@ -173,8 +173,7 @@ c) He/she shall perform any other functions/duties assigned to him by the
 executive council, Association and /or the Chairperson.
 
 
-5. Financial Secretary
-6. 
+5. Financial Secretary:
 a) He shall receive all the Association's monies and have custody of the 
 cheques and cash books. 
 b) He shall be responsible for all financial accounts and shall keep accurate 
@@ -182,7 +181,7 @@ records of all the financial transactions and assets of the Association.
 c) The financial secretary and president shall sign all cheques.
 
 
-6. Treasurer
+6. Treasurer:
 a) The Treasurer shall be a custodian of all the Association's money.
 b) He/ She shall collect or receive dues from members and executives.
 c) He/ She work hand in hand with the financial secretary of the 
@@ -193,7 +192,7 @@ e) He/she shall perform any other functions/duties assigned to him by the
 executive council, Association and /or the Chairperson.
 
 
-7. Organising Secretary
+7. Organising Secretary:
 a) The Organiser shall be responsible for arranging venues for meetings of 
 the Association.
 b) He/she shall work hand in hand with the executive council to create 
@@ -203,7 +202,7 @@ the office by the Executive Council and by the regulations of the
 Association.
 
 
-8. Deputy Organizing Secretary
+8. Deputy Organizing Secretary:
 
 There shall be two deputies who shall:
 a) Assist the Organiser in all his duties.
@@ -211,7 +210,7 @@ b) They shall perform any other functions/duties assigned to him by the
 executive council, Association and /or the Chairperson.
 
 
-9. Public Relations Officer
+9. Public Relations Officer:
 
 a) The Public Relations Officer shall be the Chairperson of the Social 
 Media team of the Association.
