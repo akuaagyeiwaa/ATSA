@@ -7,7 +7,7 @@ layout: default
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.Students logo.jpeg.png)
 
 
 
