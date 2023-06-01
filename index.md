@@ -141,7 +141,7 @@ The executive body of the Association shall consist of the following:
 appoint the administrative officers of the Association where necessary.
 
 
-Vice-Chairperson: 
+### Vice-Chairperson: 
 1.  The Vice-Chairperson shall assume the duties of the Chairperson in the 
 absence of the Chairperson. 
 2.  He/she shall be responsible for the arrangement of programs and shall 
@@ -149,7 +149,8 @@ assist the Chairperson in the business of the Association.
 3. He/she shall perform any other functions/duties assigned to him by the 
 executive committee, Association and the Chairperson
 
-The General Secretary 
+###Secretary:
+Secretary 
 1. The secretary shall maintain the records of the Association and record 
 the proceedings of the meetings of the Association.
 2. He/she shall furnish the members with notifications and agendas of the 
@@ -157,13 +158,13 @@ meetings.
 3.  He/she shall be in charge of all secretarial duties of the Association and 
 the Executive Committee.
 
-4. Deputy General Secretary:
+4. ###Deputy General Secretary:
 a). The Deputy Secretary shall assume the duties of the General Secretary 
      in his/ her absence.
 b). The Deputy Secretary shall assist the General Secretary in all of their 
     duties.
 
-Deputy General Secretary:
+### Deputy General Secretary:
 
 a). The Deputy Secretary shall assume the duties of the General Secretary 
     in his/ her absence.
@@ -229,7 +230,7 @@ to the office by the Executive Council and by this regulation. level 1 item
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+C Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
