@@ -172,14 +172,11 @@ b). The Deputy Secretary shall assist the General Secretary in all of their
 c). He/she shall perform any other functions/duties assigned to him by the 
      executive council, Association and /or the Chairperson.
 
-
-5. Financial Secretary:
-a) He shall receive all the Association's monies and have custody of the 
-cheques and cash books. 
-b) He shall be responsible for all financial accounts and shall keep accurate 
-records of all the financial transactions and assets of the Association. 
-c) The financial secretary and president shall sign all cheques.
-
+7.  He shall receive all the Association's monies and have custody of the 
+cheques and cash books.
+1.  He shall be responsible for all financial accounts and shall keep accurate 
+records of all the financial transactions and assets of the Association 
+2. The financial secretary and president shall sign all cheques.
 
 ### 6. Treasurer:
 a) The Treasurer shall be a custodian of all the Association's money.
