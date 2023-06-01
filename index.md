@@ -129,10 +129,10 @@ The executive body of the Association shall consist of the following:
  DUTIES OF THE OFFICERS:
  
 1. Chairperson
-a). He shall be the leader and chief spokesman of the Executive Committee
-b). The Chairperson's duty shall be to preside at all meetings and administer 
-     the Association's affairs.
-c). He/she can call emergency meetings any time the need arises.
+a). <p>He shall be the leader and chief spokesman of the Executive Committee.</p>
+b). <p>The Chairperson's duty shall be to preside at all meetings and administer 
+     the Association's affairs.</p>
+c). <p>He/she can call emergency meetings any time the need arises.</p>
 d). He/she shall have the authority to act for the Association within the 
      framework of the regulations of the Association.
 e). He shall be able to delegate other functions/duties of the other members 
