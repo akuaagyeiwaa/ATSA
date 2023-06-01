@@ -7,7 +7,7 @@ layout: default
 
 ### Large image
 
-![Branching](https://guides.github.Students logo.jpeg.png)
+![Branching](https://guides.github.ATSA Logo.png)
 
 
 
