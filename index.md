@@ -141,15 +141,14 @@ The executive body of the Association shall consist of the following:
 appoint the administrative officers of the Association where necessary.
 
 
+Vice-Chairperson: 
+1.  The Vice-Chairperson shall assume the duties of the Chairperson in the 
+absence of the Chairperson. 
+2.  He/she shall be responsible for the arrangement of programs and shall 
+assist the Chairperson in the business of the Association. 
+3. He/she shall perform any other functions/duties assigned to him by the 
+executive committee, Association and the Chairperson
 
-
-2. Vice-Chairperson: 
-a) The Vice-Chairperson shall assume the duties of the Chairperson in the 
-absence of the Chairperson.
-b) He/she shall be responsible for the arrangement of programs and shall 
-assist the Chairperson in the business of the Association.
-c) He/she shall perform any other functions/duties assigned to him by the 
-executive committee, Association and the Chairperson.
 
 3. ##General Secretary:
 a). The secretary shall maintain the records of the Association and record 
