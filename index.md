@@ -5,6 +5,12 @@ layout: default
 [Link to another page](./another-page.html).
 
 
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+
 
 # MISSION STATEMENT
 
@@ -221,13 +227,7 @@ publicity and advertisement of all activities
 to the office by the Executive Council and by this regulation. level 1 item
   
 
-### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 C Definition lists can be used with HTML syntax.
