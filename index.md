@@ -149,13 +149,12 @@ assist the Chairperson in the business of the Association.
 3. He/she shall perform any other functions/duties assigned to him by the 
 executive committee, Association and the Chairperson
 
-
-3. ##General Secretary:
-a). The secretary shall maintain the records of the Association and record 
+The General Secretary 
+1. The secretary shall maintain the records of the Association and record 
 the proceedings of the meetings of the Association.
-b). He/she shall furnish the members with notifications and agendas of the 
-meetings.
-c). He/she shall be in charge of all secretarial duties of the Association and 
+2. He/she shall furnish the members with notifications and agendas of the 
+meetings. 
+3.  He/she shall be in charge of all secretarial duties of the Association and 
 the Executive Committee.
 
 4. Deputy General Secretary:
