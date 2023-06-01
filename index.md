@@ -228,12 +228,6 @@ to the office by the Executive Council and by this regulation. level 1 item
   
 
 
-
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
